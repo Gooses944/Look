@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: #1100ff;
+padding:10px ;
+border-radius: 15px;
+}
+main {
+    background-color:#00e1ff ;
+    Padding:10px
+}
+Main img {
+    border-radius: 15px;
+}
+Main a {
+    text-decoration: none;
+}
+
+header a{
+color: white;
+}
+
+header b{
+color: #00e1ff;
+}
+
+Main h1 {
+    color: white;
+}
+main p {
+    color: White;
+}
+main h2 {
+    color: white;
+}
+footer {
+    background-color: #FFA07A;
+    border-radius: 15px;
+    padding: 10px;
+}
+Footer p {
+    background-color: White;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+Main {
+    border-radius: 15px; 
+}
+Select {
+    margin: 20px;
+    padding: 10px;
+    border: 20px solid lightgrey;
+    font-size: 20px;
+}
+.ghost {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.Boost {
+background-color: blue;
+}
+
+.joy {
+background-color: white;
+color: #1100ff;
+}
